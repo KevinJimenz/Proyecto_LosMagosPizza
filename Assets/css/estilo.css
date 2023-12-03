@@ -1,0 +1,39 @@
+header{
+    background: linear-gradient(to right, green,red);
+    color: black;
+    padding: 2%;
+    border: solid black 2px;
+}
+main{
+    background-color: rgb(236, 226, 198);
+}
+.title{
+    font-size: 64px;
+}
+.btnLiquidar{
+ padding-left: 15%;
+ padding-right: 15%;
+ padding-top: 8%;
+ padding-bottom: 8%;
+ color: black;
+ font-size: 19px;
+ border-style: none;
+ border-radius: 0.8rem;
+background-color: white;
+}
+.btnLiquidar:hover{
+    background-color: cyan;
+}
+.precioProducto{
+    border-style: none;
+}
+.formulario{
+    background-color: white;
+    font-size: 19px;
+    padding: 2%;
+}
+.nombre{
+    border-style: none;
+    font-size: 32px;
+    width: 50%;
+}
